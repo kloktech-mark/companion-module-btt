@@ -1,7 +1,5 @@
 ## BetterTouchTool (BTT)  Module
 
-![](https://folivora.ai/folivora/static/media/btticon.cc0bf8bc.png)
-
 [BetterTouchTool (BTT) ](https://github.com/folivoraAI/BetterTouchTool)
 
 
